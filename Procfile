@@ -1,0 +1,1 @@
+worker: python gh0stcoding.py
